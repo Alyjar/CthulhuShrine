@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GAM250_Cthulhu_Shrine.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
